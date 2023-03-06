@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/input-global-state/static/css/main.308165ab.css",
-    "main.js": "/input-global-state/static/js/main.fcb0c744.js",
+    "main.js": "/input-global-state/static/js/main.d3390c3a.js",
     "static/js/787.06e0866d.chunk.js": "/input-global-state/static/js/787.06e0866d.chunk.js",
     "static/media/Roboto-Regular.ttf": "/input-global-state/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Digital-Monospaced.ttf": "/input-global-state/static/media/Digital-Monospaced.b4074b724b1de7a204a0.ttf",
@@ -10,11 +10,11 @@
     "static/media/Arcade.TTF": "/input-global-state/static/media/Arcade.8f36b955d042951fd3af.TTF",
     "index.html": "/input-global-state/index.html",
     "main.308165ab.css.map": "/input-global-state/static/css/main.308165ab.css.map",
-    "main.fcb0c744.js.map": "/input-global-state/static/js/main.fcb0c744.js.map",
+    "main.d3390c3a.js.map": "/input-global-state/static/js/main.d3390c3a.js.map",
     "787.06e0866d.chunk.js.map": "/input-global-state/static/js/787.06e0866d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.308165ab.css",
-    "static/js/main.fcb0c744.js"
+    "static/js/main.d3390c3a.js"
   ]
 }
